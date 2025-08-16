@@ -1,0 +1,5 @@
+CART_HOST: cart.backend-{{ env }}.stansrobotshop.site
+USER_HOST: user.backend-{{ env }}.stansrobotshop.site
+RABBITMQ_HOST: rabbitmq-{{ env }}.stansrobotshop.site
+RABBITMQ_USER: roboshop
+RABBITMQ_PASSWORD: roboshop123
